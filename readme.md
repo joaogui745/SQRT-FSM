@@ -1,7 +1,5 @@
-### Integer Squared Root Automata
----
+#### Integer Squared Root Automata
 Finite State machine that computes the Integer squared root
-
-### Tests
 ---
+#### Testbench
 Waits for "start" to go high and then computes the result, seting "done" high. 
