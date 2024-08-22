@@ -2,4 +2,4 @@
 Finite State machine that computes the Integer squared root
 
 ### Testbench
-Waits for "start" to go high and then computes the result, seting "done" high when it finishes. 
+Waits for the signal "start" to go high and then computes the result, seting the signal "done" high when it finishes. 
