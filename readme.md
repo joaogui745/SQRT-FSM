@@ -1,4 +1,4 @@
-### Integer Squared Root Automata
+### Integer Squared Root Automaton
 Finite State machine that computes the Integer squared root
 
 ### Testbench
